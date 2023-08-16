@@ -1,8 +1,8 @@
 # SnailNews
-[![News](https://github.com/snaildos/SnailNews/actions/workflows/news.yml/badge.svg)](https://github.com/snaildos/SnailNews/actions/workflows/news.yml)
+[![News](https://github.com/totob12/TotoB12News/actions/workflows/news.yml/badge.svg)](https://github.com/totob12/TotoB12News/actions/workflows/news.yml)
 <br></br>
-SnailNews is used by our services in SnailDOS. This project automatically updates our news endpoint (found in README)
+TotoB12News is used by our services in SnailDOS. This project automatically updates our news endpoint (found in README)
 Endpoint:
 ```
-https://snaildos.github.io/SnailNews/data.json
+https://totob12.github.io/TotoB12News/data.json
 ```
